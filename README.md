@@ -1,13 +1,5 @@
 ### Hi there Coders👋
 
-###Code Blocks (multi-language) & highlighting
-
-####Inline code
-
-
-
-####Code Blocks (Indented style)
-
 Indented 4 spaces, like `<pre>` (Preformatted Text).
 
     <?php
